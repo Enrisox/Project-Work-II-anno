@@ -1,13 +1,13 @@
 # Progettazione dell'Infrastruttura
 ## Architettura Hardware e Sistema Ospite
 
-L'infrastruttura si basa su un approccio on-premises ottimizzato per l'efficienza energetica e il rapporto performance/costi, utilizzando hardware ARM di ultima generazione.
+L'infrastruttura si basa su un approccio **on-premises** ottimizzato per l'efficienza energetica e il rapporto performance/costi, utilizzando hardware ARM di ultima generazione.
 
-- Host: Raspberry Pi 5.
-- CPU: Quad-core ARM Cortex-A76 @ 2.4 GHz (architettura 64-bit).
-- RAM: 8 GB LPDDR4X-4267 SDRAM.
-- Storage: SSD SATA da 250 GB (tramite bridge USB 3.0/UASP) per garantire IOPS elevati e affidabilità superiore rispetto alle schede SD.
-- OS: Ubuntu Server 24.04.4 LTS. La scelta della versione LTS garantisce stabilità a lungo termine e supporto per le patch di sicurezza e installa automaticamente di default gli aggiornamenti di sicurezza in background tramite “unattended-upgrades”; inoltre l'assenza di GUI minimizza l'overhead di sistema.
+- **Host**: Raspberry Pi 5.
+- **CPU**: Quad-core ARM Cortex-A76 @ 2.4 GHz (architettura 64-bit).
+- **RAM**: 8 GB LPDDR4X-4267 SDRAM.
+- **Storage**: SSD SATA da 250 GB (tramite bridge USB 3.0/UASP) per garantire IOPS elevati e affidabilità superiore rispetto alle schede SD.
+- **OS**: Ubuntu Server 24.04.4 LTS. La scelta della versione LTS garantisce stabilità a lungo termine e supporto per le patch di sicurezza e installa automaticamente di default gli aggiornamenti di sicurezza in background tramite “unattended-upgrades”; inoltre l'assenza di GUI minimizza l'overhead di sistema.
 
 ## Motivi della scelta: On-Premises vs Cloud solutions
 - **Costo basso a lungo termine:** Investimento una tantum e nessun canone mensile. Un'istanza AWS equivalente costerebbe 50-60€/mese senza il piano Free, ammortizzando il Pi in meno di 3-4 mesi.
