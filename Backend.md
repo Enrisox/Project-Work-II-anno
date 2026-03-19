@@ -1,6 +1,6 @@
 # Sviluppo del Backend
 
-# #1. File Principale: app.py
+# 1. File Principale: app.py
 
 Il file app.py è il punto d'ingresso principale (entry point) dell'applicazione Flask. 
 
