@@ -23,6 +23,8 @@ Questa suite verifica a ciclo continuo l'integrità, la sicurezza e la corretta 
 * **Fixture Session-wide (`setup_test_environment`):** Imposta le variabili d'ambiente critiche (`DB_HOST`, `APP_SECRET_KEY`) una sola volta per l'intera durata della suite.
 * **Fixture Applicativa (`client`):** Abilita la configurazione Flask `TESTING = True` e fornisce un browser virtuale locale per inviare richieste HTTP fittizie.
 
+![Testo alternativo](./imgs/pytest.png)
+
 ### **Dettaglio dei Moduli di Test**
 
 **1. Integrità applicativa (`test_app.py`)**
