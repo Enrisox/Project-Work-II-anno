@@ -1,7 +1,8 @@
-# Progettazione dell'Infrastruttura
-## Architettura Hardware e Sistema Ospite
+# Architettura Hardware e Sistema Ospite
 
 L'infrastruttura si basa su un approccio **on-premises** ottimizzato per l'efficienza energetica e il rapporto performance/costi, utilizzando hardware ARM di ultima generazione.
+
+![Testo alternativo](../imgs/1.png)
 
 - **Host**: Raspberry Pi 5.
 - **CPU**: Quad-core ARM Cortex-A76 @ 2.4 GHz (architettura 64-bit).
