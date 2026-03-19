@@ -221,7 +221,7 @@ networks:
     # Existing network managed by the Caddy reverse proxy
     external: true
 ```
-
+![Testo alternativo](imgs/3.png)
 Questo file docker-compose.yml rappresenta una configurazione production-ready specifica per un ambiente Raspberry Pi, con un forte focus sul principio della **Defense in Depth**. 
 
 1.  **Segregazione di rete (architettura a livelli):** Il sistema utilizza due reti distinte per isolare il traffico sensibile: 
