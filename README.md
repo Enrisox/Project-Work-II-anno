@@ -92,10 +92,7 @@ Click on the links below to explore the detailed technical documentation for eac
 * [🧪 Pytest Suite](./Pytest.md) - Automated testing, mocking, and validation procedures.
 * [🚀 CI/CD Pipeline (GitHub Actions)](./Pipeline_Github_Actions.md) - Automated deployment and Shift-Left security scanning.
 
-### ⚖️ Legal
-* [📄 LICENSE](./LICENSE) - Project licensing information.
 
----
 
 # About Me
 My name is Enrico and I am a second-year student at the ITS Academy Olivetti, enrolled in the course **“Information Systems Security & Integration Specialist – DevSecOps”.**
