@@ -129,7 +129,7 @@ CMD ["gunicorn", "--bind", "0.0.0.0:6700", "--workers", "2", "app:app"]
 5.  **Integrità del File System:** Il comando “COPY --chown=appuser:appuser . .” assicura che i file del codice appartengano all'utente limitato, garantendo che l'applicazione possa leggere ed eseguire il proprio codice senza necessitare di permessi elevati.
 
 ### Architettura e hardening della Sicurezza: Docker-compose
-
+![Testo alternativo](./imgs/2.png)
 ```yaml
 version: "3.8"
 services:
