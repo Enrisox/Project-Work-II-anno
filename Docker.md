@@ -15,7 +15,7 @@ L'accesso dall'esterno è regolato da una strategia a più livelli che combina o
 * **Mascheramento dell'IP e CDN + Caching Globale:** Memorizza i contenuti statici sui server Edge di Cloudflare, riducendo drasticamente il consumo di banda e il carico sul hardware locale.
 * **Dynamic DNS (DDNS):** Un container dedicato sincronizza l'IP pubblico dinamico dell'host con i record DNS di Cloudflare, garantendo la continuità del servizio qualora cambi. 
 * **Port Forwarding Selettivo:** Il router instrada esclusivamente le porte 80 (HTTP - redirect) e 443 (HTTPS) verso l'IP locale del Raspberry Pi.
-* 
+
 ![Testo alternativo](./imgs/ports.png)
 
 #### Reverse Proxy e TLS 
