@@ -9,7 +9,7 @@
 ## Email confermata con successo
 ![raspberry](./imgs/16.png)
 
-
+## Accesso a dati e grafici
 ![raspberry](./imgs/13.png)
 
 
