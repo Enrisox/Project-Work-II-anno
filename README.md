@@ -79,6 +79,7 @@ The project includes a robust suite of automated tests:
 Click on the links below to explore the detailed technical documentation for each module:
 
 ### 🏛️ General & Infrastructure
+* [DEMO](./DEMO.md) - Website-DEMO
 * [🇮🇹 Project Description (Italiano)](./Descrizione%20del%20Progetto%20(Italiano).md) - Overview e obiettivi del Project Work.
 * [🖥️ System Infrastructure](./Infratruttura.md) - Hardware (Raspberry Pi 5) and OS (Ubuntu Server) specifications.
 * [🐳 Docker Containerization](./Docker.md) - Container strategy, isolation, and orchestration.
