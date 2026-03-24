@@ -12,11 +12,13 @@
 ## Accesso a dati e grafici
 ![raspberry](./imgs/13.png)
 
+![raspberry](./imgs/10.png)
 
+## Team Page
 ![raspberry](./imgs/14.png)
 
 
-![raspberry](./imgs/10.png)
+
 
 
 ![raspberry](./imgs/15.png)
