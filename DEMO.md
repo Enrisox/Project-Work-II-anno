@@ -6,6 +6,9 @@
 ## Conferma per email obbligatoria
 ![raspberry](./imgs/12.png)
 
+## Email confermata con successo
+![raspberry](./imgs/16.png)
+
 
 ![raspberry](./imgs/13.png)
 
