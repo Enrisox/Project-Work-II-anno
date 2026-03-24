@@ -3,6 +3,7 @@
 ## Registrazione nuovo utente
 ![raspberry](./imgs/11.png)
 
+## Conferma per email obbligatoria
 ![raspberry](./imgs/12.png)
 
 
